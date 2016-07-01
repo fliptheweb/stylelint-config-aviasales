@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-aviasales",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shareable styleling config for aviasales projects",
   "main": "index.js",
   "scripts": {
