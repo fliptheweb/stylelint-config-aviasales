@@ -7,13 +7,15 @@ module.exports = {
     "declaration-block-semicolon-newline-after": "always",
     "value-list-comma-space-before": "never",
     "block-closing-brace-newline-after": "always",
-    "rule-nested-empty-line-before": ["always-multi-line", {
+    "rule-empty-line-before": ["always-multi-line", {
       "except": ["first-nested"],
       "ignore": ["after-comment"]
     }],
-    "rule-non-nested-empty-line-before": ["always", {
-      "ignore": ["after-comment"]
-    }],
+    "max-empty-lines": [
+      1,
+      {"severity": "warning"}
+    ],
+    "no-extra-semicolons": true,
     "selector-pseudo-element-colon-notation": "double"
   }
 }
