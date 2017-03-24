@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/fliptheweb/stylelint-config-aviasales/issues"
   },
-  "homepage": "https://github.com/fliptheweb/stylelint-config-aviasales#readme",
-  "peerDependencies": {
-    "stylelint": "^5.4.0"
-  }
+  "homepage": "https://github.com/fliptheweb/stylelint-config-aviasales#readme"
 }
