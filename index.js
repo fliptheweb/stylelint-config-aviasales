@@ -16,6 +16,7 @@ module.exports = {
       {"severity": "warning"}
     ],
     "no-extra-semicolons": true,
-    "selector-pseudo-element-colon-notation": "double"
+    "selector-pseudo-element-colon-notation": "double",
+    "function-url-quotes": "always"
   }
 }
